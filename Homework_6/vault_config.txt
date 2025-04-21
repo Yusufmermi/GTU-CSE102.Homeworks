@@ -1,0 +1,7 @@
+code_length: 4
+digit_range: 9
+allow_duplicate: 0
+attempt_number: 10
+point_correct_place: 10
+point_wrong_place: 5
+point_wrong_digit: -2

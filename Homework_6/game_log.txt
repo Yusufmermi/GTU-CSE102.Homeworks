@@ -1,0 +1,17 @@
+-- Vault Codebreaker Game Log ---
+
+Game date & time: 18-04-2025 15:12:07
+Vault code is: 8532
+Code length: 4
+Digit range: 9
+Allow duplicate: 0
+Attempt number: 10
+
+
+
+Attempt number: 0 1234 => Feedback: W M C W 
+Attempt number: 1 4567 => Feedback: W C W W 
+Attempt number: 2 8532 => Feedback: C C C C 
+----Good job detective you found code all correctly!----
+Your inspect points is 30.
+You are cipher hunter
